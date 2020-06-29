@@ -1,0 +1,10 @@
+body{font-family: 'Pangolin', cursive;
+}
+#namehighlight{color:orange}
+h1{font-size: 50px;}
+.top{width:40%;
+float: left;
+margin-left: 5%;
+padding: 2%;}
+.top img{width:100%;position: relative;
+left: 60;}
